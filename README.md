@@ -1,2 +1,1 @@
-# printf
-a group project given by alx on printf
+A group project on alx printf
